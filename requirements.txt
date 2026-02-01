@@ -1,0 +1,17 @@
+torch>=1.7.1
+torchvision>=0.8.2
+numpy>=1.19.4
+tqdm
+pandas
+robustbench
+easydict
+Pillow
+torchdiffeq
+geotorch
+requests>=2.25.1
+Jinja2~=3.1.2
+timm>=1.0.9
+git+https://github.com/fra31/auto-attack.git@a39220048b3c9f2cca9a4d3a54604793c68eca7e#egg=autoattack
+gdown==5.1.0
+pyyaml
+matplotlib>=3.7
